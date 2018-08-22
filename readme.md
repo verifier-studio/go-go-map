@@ -15,7 +15,7 @@ linux下，如果有需要的话，请自行编译cli.go文件
 ![](http://seaweedman.store/images/github/go-go-map/add.png)<br>
 
 - step 3.
-开始下载
+开始下载<br>
 ![](http://seaweedman.store/images/github/go-go-map/downloading.png)
 ![](http://seaweedman.store/images/github/go-go-map/end.png)<br>
 
