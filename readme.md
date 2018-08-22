@@ -1,5 +1,5 @@
 ***
-windows下，glone当前项目后，点击cli.exe运行程序<br>
+windows下，clone当前项目后，点击cli.exe运行程序<br>
 linux下，如果有需要的话，请自行编译cli.go文件
 ***
 
